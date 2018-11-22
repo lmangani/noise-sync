@@ -1,0 +1,16 @@
+{
+  "name": "noise-sync",
+  "version": "1.0.0",
+  "description": "noise-network example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "client": "node client.js $KEY"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "noise-network": "0.0.0"
+  }
+}
