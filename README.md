@@ -1,5 +1,5 @@
 # noise-sync
-noise-network sync example
+[noise-network](https://github.com/mafintosh/noise-network) sync example
 
 
 ## Server
